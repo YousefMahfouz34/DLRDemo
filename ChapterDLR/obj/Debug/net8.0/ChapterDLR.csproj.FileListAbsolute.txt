@@ -1,0 +1,14 @@
+D:\Projects\DLRDemo\ChapterDLR\bin\Debug\net8.0\ChapterDLR.exe
+D:\Projects\DLRDemo\ChapterDLR\bin\Debug\net8.0\ChapterDLR.deps.json
+D:\Projects\DLRDemo\ChapterDLR\bin\Debug\net8.0\ChapterDLR.runtimeconfig.json
+D:\Projects\DLRDemo\ChapterDLR\bin\Debug\net8.0\ChapterDLR.dll
+D:\Projects\DLRDemo\ChapterDLR\bin\Debug\net8.0\ChapterDLR.pdb
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.AssemblyInfoInputs.cache
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.AssemblyInfo.cs
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.csproj.CoreCompileInputs.cache
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.dll
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\refint\ChapterDLR.dll
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.pdb
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ChapterDLR.genruntimeconfig.cache
+D:\Projects\DLRDemo\ChapterDLR\obj\Debug\net8.0\ref\ChapterDLR.dll

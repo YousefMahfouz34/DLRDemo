@@ -1,0 +1,14 @@
+D:\Projects\DLRDemo\DLRExample2\bin\Debug\net8.0\DLRExample2.exe
+D:\Projects\DLRDemo\DLRExample2\bin\Debug\net8.0\DLRExample2.deps.json
+D:\Projects\DLRDemo\DLRExample2\bin\Debug\net8.0\DLRExample2.runtimeconfig.json
+D:\Projects\DLRDemo\DLRExample2\bin\Debug\net8.0\DLRExample2.dll
+D:\Projects\DLRDemo\DLRExample2\bin\Debug\net8.0\DLRExample2.pdb
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.AssemblyInfoInputs.cache
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.AssemblyInfo.cs
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.csproj.CoreCompileInputs.cache
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.dll
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\refint\DLRExample2.dll
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.pdb
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\DLRExample2.genruntimeconfig.cache
+D:\Projects\DLRDemo\DLRExample2\obj\Debug\net8.0\ref\DLRExample2.dll

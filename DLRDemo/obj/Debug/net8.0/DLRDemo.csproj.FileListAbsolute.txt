@@ -1,0 +1,14 @@
+D:\Projects\DLRDemo\DLRDemo\bin\Debug\net8.0\DLRDemo.exe
+D:\Projects\DLRDemo\DLRDemo\bin\Debug\net8.0\DLRDemo.deps.json
+D:\Projects\DLRDemo\DLRDemo\bin\Debug\net8.0\DLRDemo.runtimeconfig.json
+D:\Projects\DLRDemo\DLRDemo\bin\Debug\net8.0\DLRDemo.dll
+D:\Projects\DLRDemo\DLRDemo\bin\Debug\net8.0\DLRDemo.pdb
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.AssemblyInfoInputs.cache
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.AssemblyInfo.cs
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.csproj.CoreCompileInputs.cache
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.dll
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\refint\DLRDemo.dll
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.pdb
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\DLRDemo.genruntimeconfig.cache
+D:\Projects\DLRDemo\DLRDemo\obj\Debug\net8.0\ref\DLRDemo.dll

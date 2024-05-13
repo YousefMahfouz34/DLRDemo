@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DLRDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0042568-F8E9-4269-A674-12A7C12DD686}|ChapterDLR\\ChapterDLR.csproj|d:\\projects\\dlrdemo\\chapterdlr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0042568-F8E9-4269-A674-12A7C12DD686}|ChapterDLR\\ChapterDLR.csproj|solutionrelative:chapterdlr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8997DD4E-F542-43C3-9D1F-16DA88EC6B84}|DLRDemo\\DLRDemo.csproj|D:\\Projects\\DLRDemo\\dlrdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8997DD4E-F542-43C3-9D1F-16DA88EC6B84}|DLRDemo\\DLRDemo.csproj|solutionrelative:dlrdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{266C1C69-DC00-4C8E-8F14-61EA5ABFAEDE}|DLRExample2\\DLRExample2.csproj|D:\\Projects\\DLRDemo\\dlrexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{266C1C69-DC00-4C8E-8F14-61EA5ABFAEDE}|DLRExample2\\DLRExample2.csproj|solutionrelative:dlrexample2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DLRDemo\\ChapterDLR\\Program.cs",
+              "RelativeDocumentMoniker": "ChapterDLR\\Program.cs",
+              "ToolTip": "D:\\Projects\\DLRDemo\\ChapterDLR\\Program.cs",
+              "RelativeToolTip": "ChapterDLR\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:30:23.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DLRDemo\\DLRExample2\\Program.cs",
+              "RelativeDocumentMoniker": "DLRExample2\\Program.cs",
+              "ToolTip": "D:\\Projects\\DLRDemo\\DLRExample2\\Program.cs",
+              "RelativeToolTip": "DLRExample2\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:52:48.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DLRDemo\\DLRDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DLRDemo\\Program.cs",
+              "ToolTip": "D:\\Projects\\DLRDemo\\DLRDemo\\Program.cs",
+              "RelativeToolTip": "DLRDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAkwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T07:38:43.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
